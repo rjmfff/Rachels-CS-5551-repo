@@ -59,4 +59,8 @@ Repository for notes and random crap not included in the other repositories.
 * 5% - Participation & active learning (Individual)
 * Extra - Problem Sets (Individual)
 
+## Class Repositories
 
+* [In-class Program repository](https://github.com/rjmfff/CS5551_Student46_ICP)
+* [Lab repository](https://github.com/rjmfff/CS5551_23-46_Labs)
+* [Semester Project repository](https://github.com/rjmfff/CS5551_Team5_Project)
