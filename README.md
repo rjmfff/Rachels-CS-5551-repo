@@ -59,6 +59,10 @@ Repository for notes and random crap not included in the other repositories.
 * 5% - Participation & active learning (Individual)
 * Extra - Problem Sets (Individual)
 
+**Journal Club** - During each presentation, have to fill out the Google Forms based Journaling information.
+
+**Exams** - Questions may be pulled from the Journal Club / Presentations
+
 ## Class Repositories
 
 * [In-class Program repository](https://github.com/rjmfff/CS5551_Student46_ICP)
